@@ -12,7 +12,7 @@ const Main = () => {
         TypeScript, ReactJS, NextJS e Styled Components
       </S.Description>
       <S.Illustration
-        src="/img/hero-illustration"
+        src="/img/hero-illustration.svg"
         alt="Um desenvolvedor de frente para o computador"
       ></S.Illustration>
     </S.Wrapper>
